@@ -1,7 +1,7 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint1;
 namespace Tyuiu.DikanovAA.Sprint1.Task7.V15.Lib
 {
-    public class DataService : ISprint1Task7V16
+    public class DataService : ISprint1Task7V15
     {
         public double Calculate(double x)
         {
