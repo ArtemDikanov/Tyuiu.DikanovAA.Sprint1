@@ -5,7 +5,7 @@ namespace Tyuiu.DikanovAA.Sprint1.Task1.V1.Lib
     {
         public double Calculate(double x, double y, double a)
         {
-            return x / 3 / y + 6 * a;
+            return (x / 3 / y + 6 * a) + 47.17;
            
         }
     }
